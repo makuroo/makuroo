@@ -38,6 +38,7 @@ I'm Richard, a student at Binus University in faculty of Computer Science taking
   - Implement parry system
   - Implement stamina system that corresponds with player actions(dash, parry)
   - Design and implement simple AI with trigonometry for enemy behaviour
+  - Make use of Unity Cinemachine
 
 ## [Penasaran](https://github.com/makuroo/LombaGameTradisional)
 ![PENASARAN](https://github.com/makuroo/makuroo/assets/92146487/b5212285-abc9-4135-93b8-8b47a58aae5c)
@@ -47,7 +48,7 @@ I'm Richard, a student at Binus University in faculty of Computer Science taking
    - Implement Unity's URP for lightning
    - Make use of A* API for pathfinding
    - Implement compass feature
-      
+   - Make use of Unity Cinemachine
   
 
 
