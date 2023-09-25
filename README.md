@@ -1,3 +1,5 @@
+![github-header-image](https://github.com/makuroo/makuroo/assets/92146487/fb886c5d-e408-46f5-98dd-88f97045eb15)
+
 # About Me 👋
 
 <!--
@@ -14,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Richard, a student at Binus University in faculty of Computer Science taking a major in Game Application and Technology. I have a strong passion in game development especially game programming where I am really interested to implement various of unique mechanic to my game and constantly trying to improve my code.
+A student at Binus University in faculty of Computer Science taking a major in Game Application and Technology. I have a strong passion in game development especially game programming where I am really interested to implement various of unique mechanic to my game and constantly trying to improve my code.
 
 # My Skills
 - Language: C#, C++, C, Java
