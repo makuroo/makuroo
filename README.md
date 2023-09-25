@@ -18,7 +18,7 @@ I'm Richard, a student at Binus University in faculty of Computer Science taking
 
 # My Skills
 - Language: C#, C++, C, Java
-- Engine: Unity 
+- Game Engine: Unity 
 
 # My Projects
 ## [Mochi](https://github.com/makuroo/Mochi)
@@ -53,7 +53,6 @@ I'm Richard, a student at Binus University in faculty of Computer Science taking
 
 ### Contact Me
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/richard-richard-39a949241/)
-
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](richardhuang1705@gmail.com)
+<a href="richardhuang1705@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="55" height = "20"></a>
 
   
