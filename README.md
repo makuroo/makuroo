@@ -1,5 +1,3 @@
-![github-header-image](https://github.com/makuroo/makuroo/assets/92146487/fb886c5d-e408-46f5-98dd-88f97045eb15)
-
 # About Me 👋
 
 <!--
@@ -26,6 +24,10 @@ A student at Binus University in faculty of Computer Science taking a major in G
 ## [Mochi](https://github.com/makuroo/Mochi)
 
   ![R2EHhE](https://github.com/makuroo/makuroo/assets/92146487/86991634-668e-435c-84c2-2e2c054013de)
+  
+  <img src="https://github.com/makuroo/makuroo/assets/92146487/5457ad3f-31c5-4459-8d6d-cfff84bef717"  style="width:300px;height:200px;">
+
+  <img src="https://github.com/makuroo/makuroo/assets/92146487/edd25fdc-4f0e-499c-bea1-e6589ef1b195"  style="width:300px;height:200px;">
 
   Highlights:
   - Implement effects for mushroom when emitting spore using Unity's paricle effect system
