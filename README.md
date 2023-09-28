@@ -38,6 +38,8 @@ A student at Binus University in faculty of Computer Science taking a major in G
     
   ![Pk0i2+](https://github.com/makuroo/makuroo/assets/92146487/edd6612f-cd14-459a-9090-5a648cf42f55)
 
+  <img src="https://github.com/makuroo/makuroo/assets/92146487/7beea27e-2d12-46c9-ae17-6ca1fd1d9b5b"  style="width:300px;height:200px;">
+
   Highlights:
   - Implement parry system
   - Implement stamina system that corresponds with player actions(dash, parry)
