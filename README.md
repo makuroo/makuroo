@@ -49,6 +49,7 @@ A student at Binus University in faculty of Computer Science taking a major in G
 ## [Penasaran](https://github.com/makuroo/LombaGameTradisional)
 ![PENASARAN](https://github.com/makuroo/makuroo/assets/92146487/b5212285-abc9-4135-93b8-8b47a58aae5c)
 
+<img src="https://github.com/makuroo/makuroo/assets/92146487/5c322ad7-631e-4340-a97d-c83195aa9046"  style="width:300px;height:200px;">
 
    Highlights:
    - Implement Unity's URP for lightning
