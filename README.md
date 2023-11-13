@@ -21,6 +21,21 @@ A student at Binus University in faculty of Computer Science taking a major in G
 - Game Engine: Unity 
 
 # My Projects
+## [Lung Defender: The Tuberculosis Battle](https://github.com/HertonJP/Lung-Defender-The-Cell-Strikes-Back)
+    
+<a href="https://youtu.be/5paMGXJvzhw?si=nCyzLbsMaGooaExq">
+  <img src="https://img.youtube.com/vi/5paMGXJvzhw/maxresdefault.jpg" alt="Lung Defender: The Tuberculosis Battle Trailer" width="300" height="200">
+</a>
+
+  Click image to watch trailer in Youtube
+  
+  Highlights:
+  - Handle the programming for inventory UI and tower defense UI 
+  - Implement move and stamina mechanic in tower defense part
+  - Implement OOP concept for characters in tower defense part
+  - Design and implement simple save and load system using unity playerprefs
+  - Make use of Unity line renderer to create laser as one of the characters ultimate in tower defense part
+
 ## [Mochi](https://github.com/makuroo/Mochi)
 
   ![R2EHhE](https://github.com/makuroo/makuroo/assets/92146487/86991634-668e-435c-84c2-2e2c054013de)
@@ -33,18 +48,6 @@ A student at Binus University in faculty of Computer Science taking a major in G
   - Implement effects for mushroom when emitting spore using Unity's paricle effect system
   - Implement buff and debuff mechanic for player
   - Implement simple Boss battle system  
-
-## [Yokai Mansion](https://github.com/makuroo/Yokai-Assasin)
-    
-  ![Pk0i2+](https://github.com/makuroo/makuroo/assets/92146487/edd6612f-cd14-459a-9090-5a648cf42f55)
-
-  <img src="https://github.com/makuroo/makuroo/assets/92146487/7beea27e-2d12-46c9-ae17-6ca1fd1d9b5b"  style="width:300px;height:200px;">
-
-  Highlights:
-  - Implement parry system
-  - Implement stamina system that corresponds with player actions(dash, parry)
-  - Design and implement simple AI with trigonometry for enemy behaviour
-  - Make use of Unity Cinemachine
 
 ## [Penasaran](https://github.com/makuroo/LombaGameTradisional)
 ![PENASARAN](https://github.com/makuroo/makuroo/assets/92146487/b5212285-abc9-4135-93b8-8b47a58aae5c)
