@@ -30,11 +30,12 @@ A student at Binus University in faculty of Computer Science taking a major in G
   Click image to watch trailer in Youtube
   
   Highlights:
-  - Handle the programming for inventory UI and tower defense UI 
-  - Implement move and stamina mechanic in tower defense part
-  - Implement OOP concept for characters in tower defense part
+  - Handle the tower defense part of the game
+  - Handle the programming for inventory and UI 
+  - Implement move and stamina mechanic 
+  - Implement OOP concept for characters 
   - Design and implement simple save and load system using unity playerprefs
-  - Make use of Unity line renderer to create laser as one of the characters ultimate in tower defense part
+  - Make use of Unity line renderer to create laser as one of the characters ultimate
 
 ## [Mochi](https://github.com/makuroo/Mochi)
 
