@@ -24,22 +24,24 @@ A student at Binus University in faculty of Computer Science taking a major in G
 <table width="100%">
   <thead>
     <tr>
+      <th width="50%">Business in 30 Days</th>
       <th width="50%"><a href=https://jagoann3on.itch.io/lung-defender-the-tuberculosis-battle>Lung Defender: The Tuberculosis Battle</a></th>
-      <th width="50%"><a href=https://bgdc.itch.io/mochi-prince>Mochi Prince</a></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>
-          <a href="https://youtu.be/5paMGXJvzhw?si=nCyzLbsMaGooaExq">
+          <td><img src="https://github.com/makuroo/makuroo/assets/92146487/3bf66352-f192-4a64-82e1-bdc5575276ea" style="width:500px;height:300px;"></td>
+     </td>
+      <td>
+        <a href="https://youtu.be/5paMGXJvzhw?si=nCyzLbsMaGooaExq">
               <img src="https://img.youtube.com/vi/5paMGXJvzhw/maxresdefault.jpg" alt="Lung Defender: The Tuberculosis Battle Trailer" width="500" height="300">
         </a>
-     </td>
-      <td><img src="https://github.com/makuroo/makuroo/assets/92146487/5457ad3f-31c5-4459-8d6d-cfff84bef717" width="500" height="300"/></td>
+      </td>
     </tr>
     <tr>
       <td valign="text-top">
-          A tower-defense game themed around human immune system. For this project, I mainly worked on the tower defense part and save system. I make use of OOP concept to develop the characters in tower              defense part where each of the character possess their own special skill. Click image to watch trailer in Youtube.
+          This game is my intern project as VR game programmer in Binus University. In this project I'm resposible for some of the game core mechanics such as interview, drag and drop for answering questions, make history UI and others.
       </td>
       <td valign="text-top"">
           A 2d action platformer game where player as the prince of Mochi Kingdom has to save the kingdom from harsh winter. Game is made for BGDC talent group project and showcased in IGF 2022.
@@ -71,7 +73,7 @@ A student at Binus University in faculty of Computer Science taking a major in G
       <td><img src="https://github.com/makuroo/makuroo/assets/92146487/5c322ad7-631e-4340-a97d-c83195aa9046"  style="width:500px;height:300px;"></td>
     </tr>
     <tr>
-      <td valign="text-top">This game is my intern project as VR game programmer in Binus University. In this project I'm resposible for some of the game core mechanics such as interview, drag and drop for answering questions, make history UI and others.</td>
+      <td valign="text-top"></td>
       <td valign="text-top">Penasaran is horror theme game where it combines multiple traditional Indonesian games into one, such as petak umpet, ketapel, and bambu gila. In this project, I'm responsible for petak umpet gameplay and AI using A* API. I'm also taking care of the UI for the game.<br></td>
     </tr>
     <tr>
