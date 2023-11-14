@@ -31,16 +31,18 @@ A student at Binus University in faculty of Computer Science taking a major in G
   <tbody>
     <tr>
       <td>
-         <img src="https://github.com/makuroo/makuroo/assets/92146487/3bf66352-f192-4a64-82e1-bdc5575276ea" style="width:500px;height:300px;">
+         <img src="https://github.com/makuroo/makuroo/assets/92146487/1ed8478c-2a5d-48d6-ab71-5de58e387c9d" style="width:500px;height:300px;">
      </td>
       <td>
         <a href="https://youtu.be/5paMGXJvzhw?si=nCyzLbsMaGooaExq">
-              <img src="https://img.youtube.com/vi/5paMGXJvzhw/maxresdefault.jpg" alt="Lung Defender: The Tuberculosis Battle Trailer" width="400" height="300">
+              <img src="https://img.youtube.com/vi/5paMGXJvzhw/maxresdefault.jpg" alt="Lung Defender: The Tuberculosis Battle Trailer" width="600" height="300">
         </a>
       </td>
     </tr>
     <tr>
       <td valign="text-top">
+        GIF is low quality because of compression
+        <br></br>
           This game is my intern project as VR game programmer in Binus University. In this project I'm resposible for some of the game core mechanics such as interview, drag and drop for answering questions, history UI and others.
       </td>
       <td valign="text-top"">
