@@ -33,11 +33,6 @@ A student at Binus University in faculty of Computer Science taking a major in G
       <td>
           <td><img src="https://github.com/makuroo/makuroo/assets/92146487/3bf66352-f192-4a64-82e1-bdc5575276ea" style="width:500px;height:300px;"></td>
      </td>
-      <td>
-        <a href="https://youtu.be/5paMGXJvzhw?si=nCyzLbsMaGooaExq">
-              <img src="https://img.youtube.com/vi/5paMGXJvzhw/maxresdefault.jpg" alt="Lung Defender: The Tuberculosis Battle Trailer" width="500" height="300">
-        </a>
-      </td>
     </tr>
     <tr>
       <td valign="text-top">
