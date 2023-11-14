@@ -41,7 +41,7 @@ A student at Binus University in faculty of Computer Science taking a major in G
     </tr>
     <tr>
       <td valign="text-top">
-          This game is my intern project as VR game programmer in Binus University. In this project I'm resposible for some of the game core mechanics such as interview, drag and drop for answering questions, make history UI and others.
+          This game is my intern project as VR game programmer in Binus University. In this project I'm resposible for some of the game core mechanics such as interview, drag and drop for answering questions, history UI and others.
       </td>
       <td valign="text-top"">
         A hack n' slash X tower-defense game, themed around human immune system. For this project, I mainly worked on the tower defense part and save system. 
