@@ -67,8 +67,8 @@ A student at Binus University in faculty of Computer Science taking a major in G
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github.com/makuroo/makuroo/assets/92146487/2c655b5c-ec14-48dc-956d-965b37be6aad" style="width:500px;height:200px;"></td>
-      <td><img src="https://github.com/makuroo/makuroo/assets/92146487/5c322ad7-631e-4340-a97d-c83195aa9046"  style="width:500px;height:200px;"></td>
+      <td><img src="https://github.com/makuroo/makuroo/assets/92146487/3bf66352-f192-4a64-82e1-bdc5575276ea" style="width:500px;height:300px;"></td>
+      <td><img src="https://github.com/makuroo/makuroo/assets/92146487/5c322ad7-631e-4340-a97d-c83195aa9046"  style="width:500px;height:300px;"></td>
     </tr>
     <tr>
       <td valign="text-top">This game is my intern project as VR game programmer in Binus University. In this project I'm resposible for some of the game core mechanics such as interview, drag and drop for answering questions, make history UI and others.</td>
