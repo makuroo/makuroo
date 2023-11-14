@@ -21,45 +21,65 @@ A student at Binus University in faculty of Computer Science taking a major in G
 - Game Engine: Unity 
 
 # My Projects
-## [Lung Defender: The Tuberculosis Battle](https://github.com/HertonJP/Lung-Defender-The-Cell-Strikes-Back)
-    
-<a href="https://youtu.be/5paMGXJvzhw?si=nCyzLbsMaGooaExq">
-  <img src="https://img.youtube.com/vi/5paMGXJvzhw/maxresdefault.jpg" alt="Lung Defender: The Tuberculosis Battle Trailer" width="300" height="200">
-</a>
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%"><a href=https://jagoann3on.itch.io/lung-defender-the-tuberculosis-battle>Lung Defender: The Tuberculosis Battle</a></th>
+      <th width="50%"><a href=https://bgdc.itch.io/mochi-prince>Mochi Prince</a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+          <a href="https://youtu.be/5paMGXJvzhw?si=nCyzLbsMaGooaExq">
+              <img src="https://img.youtube.com/vi/5paMGXJvzhw/maxresdefault.jpg" alt="Lung Defender: The Tuberculosis Battle Trailer" width="500" height="300">
+        </a>
+     </td>
+      <td><img src="https://github.com/makuroo/makuroo/assets/92146487/5457ad3f-31c5-4459-8d6d-cfff84bef717" width="500" height="300"/></td>
+    </tr>
+    <tr>
+      <td valign="text-top">
+          A tower-defense game themed around human immune system. For this project, I mainly worked on the tower defense part and save system. I make use of OOP concept to develop the characters in tower              defense part where each of the character possess their own special skill. Click image to watch trailer in Youtube.
+      </td>
+      <td valign="text-top"">
+          A 2d action platformer game where player as the prince of Mochi Kingdom has to save the kingdom from harsh winter. Game is made for BGDC talent group project and showcased in IGF 2022.
+      </td>
+    </tr>
+    <tr>
+        <td>
+            Project Link: <a href="https://github.com/HertonJP/Lung-Defender-The-Cell-Strikes-Back"> here </a>
+        </td>
+        <td>
+            Project Link: <a href="https://github.com/makuroo/Mochi"> here </a>
+        </td>
+    </tr>
+  </tbody>
+</table>
 
-  Click image to watch trailer in Youtube
-  
-  Highlights:
-  - Handle the tower defense part of the game
-  - Handle the programming for inventory and UI 
-  - Implement move and stamina mechanic 
-  - Implement OOP concept for characters 
-  - Design and implement simple save and load system using unity playerprefs
-  - Make use of Unity line renderer to create laser as one of the characters ultimate
+<br>
 
-## [Mochi](https://github.com/makuroo/Mochi)
-
-  ![R2EHhE](https://github.com/makuroo/makuroo/assets/92146487/86991634-668e-435c-84c2-2e2c054013de)
-  
-  <img src="https://github.com/makuroo/makuroo/assets/92146487/5457ad3f-31c5-4459-8d6d-cfff84bef717"  style="width:300px;height:200px;">
-
-  <img src="https://github.com/makuroo/makuroo/assets/92146487/edd25fdc-4f0e-499c-bea1-e6589ef1b195"  style="width:300px;height:200px;">
-
-  Highlights:
-  - Implement effects for mushroom when emitting spore using Unity's paricle effect system
-  - Implement buff and debuff mechanic for player
-  - Implement simple Boss battle system  
-
-## [Penasaran](https://github.com/makuroo/LombaGameTradisional)
-![PENASARAN](https://github.com/makuroo/makuroo/assets/92146487/b5212285-abc9-4135-93b8-8b47a58aae5c)
-
-<img src="https://github.com/makuroo/makuroo/assets/92146487/5c322ad7-631e-4340-a97d-c83195aa9046"  style="width:300px;height:200px;">
-
-   Highlights:
-   - Implement Unity's URP for lightning
-   - Make use of A* API for pathfinding
-   - Implement compass feature
-   - Make use of Unity Cinemachine
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%">Business in 30 Days</th>
+      <th width="50%">Penasaran (WIP)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://github.com/makuroo/makuroo/assets/92146487/2c655b5c-ec14-48dc-956d-965b37be6aad" style="width:500px;height:200px;"></td>
+      <td><img src="https://github.com/makuroo/makuroo/assets/92146487/5c322ad7-631e-4340-a97d-c83195aa9046"  style="width:500px;height:200px;"></td>
+    </tr>
+    <tr>
+      <td valign="text-top">This game is my intern project as VR game programmer in Binus University. In this project I'm resposible for some of the game core mechanics such as interview, drag and drop for answering questions, make history UI and others.</td>
+      <td valign="text-top">Penasaran is horror theme game where it combines multiple traditional Indonesian games into one, such as petak umpet, ketapel, and bambu gila. In this project, I'm responsible for petak umpet gameplay and AI using A* API. I'm also taking care of the UI for the game.<br></td>
+    </tr>
+    <tr>
+      <td>Project Link: <a href="https://github.com/makuroo/Design-Thinking-VR-Simulation">here</td>
+      <td>Project Link: <a href="https://github.com/makuroo/LombaGameTradisional">here</td>
+    </tr>
+  </tbody>
+</table>
   
 
 
