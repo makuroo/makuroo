@@ -48,7 +48,9 @@ A student at Binus University in faculty of Computer Science taking a major in G
       <td valign="text-top"">
         A hack n' slash X tower-defense game, themed around human immune system. For this project, I mainly worked on the tower defense part and save system. 
         <br></br>
-        I make use of OOP concept to develop the characters in tower defense part where each of the character possess their own special skill and Unity's playerprefs for the save and load system. 
+        I make use of OOP concept to develop the characters in tower defense part where each of the character possess their own special skill and Unity's playerprefs for the save and load system.
+        <br></br>
+        2nd Place in 4C National Competition
         <br><br>
         Click image to watch trailer in Youtube 
       </td>
