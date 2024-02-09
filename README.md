@@ -24,7 +24,7 @@ A student at Binus University in faculty of Computer Science taking a major in G
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%">Business in 30 Days</th>
+      <th width="50%">Baking Bee VR</th>
       <th width="50%"><a href=https://jagoann3on.itch.io/lung-defender-the-tuberculosis-battle>Lung Defender: The Tuberculosis Battle</a></th>
     </tr>
   </thead>
