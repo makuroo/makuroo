@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-A student at Binus University in faculty of Computer Science taking a major in Game Application and Technology. I have a strong passion in game development especially game programming where I am really interested to implement various of unique mechanic to my game and constantly trying to improve my code.
+Hi! I am Richard, I focus mainly in game programming with Unity engine with 2 year professional experiences and internships. I always try to surpass my past self and getting better in what I do and very excited to level up my technical and soscial skill.
 
 # My Skills
 - Language: C#, C++, C, Java
@@ -71,25 +71,31 @@ A student at Binus University in faculty of Computer Science taking a major in G
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a href=https://bgdc.itch.io/mochi-prince>Mochi Prince</a></th>
+      <th width="50%"><a href=https://https://drive.google.com/drive/u/1/folders/1Xica5LaBK0eKzNoJOxHZgDDo1GHudu1e>Game Dev Dilemmas</a></th>
       <th width="50%"><a href=https://sankalpagames.itch.io/bagofseed>Bag of Seed</a></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github.com/makuroo/makuroo/assets/92146487/1b34e6cc-6574-4dcd-83b4-3ba31bf0dae6" style="width:500px;height:300px;"></td>
-      <td><img src="https://github.com/makuroo/makuroo/assets/92146487/5c322ad7-631e-4340-a97d-c83195aa9046"  style="width:500px;height:300px;"></td>
+      <td align="center">
+        <img width="175" height="356" alt="image-removebg-preview-2"
+             src="https://github.com/user-attachments/assets/a2801310-5de4-4479-b79b-bf65c3188b45" />
+      </td>
+      <td><img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/1b01adb2-1504-4f76-a504-730e598231a2" /></td>
     </tr>
     <tr>
-      <td valign="text-top">A 2d action platformer game where player is a prince from Mochi Kingdom that has to save it's kingdom from harsh winter. In this project I handle all of the programming for the game.</td>
+      <td valign="text-top">Game Dev Dilemmas is a project for my final thesis which a simple mobile game where player learn to take decision as a game developer.</td>
       <td valign="text-top">Bag of Seed is a 2.5D platformer where player plays as a seedbag travelling a post apocalyptic world discovering the past events.<br></td>
     </tr>
     <tr>
-      <td>Project Link: <a href="https://github.com/makuroo/Mochi">here</td>
-      <td>Project Link: <a href="https://github.com/makuroo/LombaGameTradisional">here</td>
+      <td>Project Link: <a href="https://github.com/makuroo/GameDevDilemmas">here</td>
+      <td>Project Link: <a href="https://github.com/makuroo/Project-Seed">here</td>
     </tr>
   </tbody>
+
 </table>
+
+
   
 
 
