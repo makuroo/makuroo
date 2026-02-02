@@ -72,7 +72,7 @@ A student at Binus University in faculty of Computer Science taking a major in G
   <thead>
     <tr>
       <th width="50%"><a href=https://bgdc.itch.io/mochi-prince>Mochi Prince</a></th>
-      <th width="50%">Penasaran (WIP)</th>
+      <th width="50%"><a href=https://sankalpagames.itch.io/bagofseed>Bag of Seed</a></th>
     </tr>
   </thead>
   <tbody>
@@ -82,7 +82,7 @@ A student at Binus University in faculty of Computer Science taking a major in G
     </tr>
     <tr>
       <td valign="text-top">A 2d action platformer game where player is a prince from Mochi Kingdom that has to save it's kingdom from harsh winter. In this project I handle all of the programming for the game.</td>
-      <td valign="text-top">Penasaran is horror theme game where it combines multiple traditional Indonesian games into one, such as petak umpet, ketapel, and bambu gila. In this project, I'm responsible for petak umpet gameplay and AI using A* API. I'm also taking care of the UI for the game.<br></td>
+      <td valign="text-top">Bag of Seed is a 2.5D platformer where player plays as a seedbag travelling a post apocalyptic world discovering the past events.<br></td>
     </tr>
     <tr>
       <td>Project Link: <a href="https://github.com/makuroo/Mochi">here</td>
