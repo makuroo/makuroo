@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello!, welcome to my portfolio. This is where I shared some info about myself and list some of my projects, especially projects that I have worked on in the past either educational purpose or professionally.
+Hello!, I am a graduate student from Binus University. I am a tech enthusiast with main field in game development especially game programming. 
 
 # My Skills
 - Language: C#, PHP, Javascript, SQL
