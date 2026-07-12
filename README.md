@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi! I am Richard, I focus mainly in game programming with Unity engine with 2 internsips and 1 year junior game developer experience. I always try to surpass my past self and getting better in what I do and very excited to level up my technical and social skill.
+Hello!, welcome to my portfolio. This is where I shared some info about myself and list some of my projects, especially projects that I have worked on in the past either educational purpose or professionally.
 
 # My Skills
 - Language: C#, PHP, Javascript, SQL
